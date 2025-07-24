@@ -1,0 +1,13 @@
+{
+  "mode": "testops",
+  "debug": true,
+  "testops": {
+    "api": {
+      "token": "bf98087c2b769f39a4741acf720a27171d3128ec64fa2a5bc4987e7425834825"
+    },
+    "project": "RANDOM",
+    "run": {
+      "complete": true
+    }
+  }
+}
